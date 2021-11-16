@@ -14,7 +14,6 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
- 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/viktorka1347/ajs-9.git"
