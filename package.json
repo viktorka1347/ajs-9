@@ -1,0 +1,19 @@
+{
+  "name": "ajs-9-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorka1347/ajs-9.git"
+  },
+  "author": "vika",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viktorka1347/ajs-9/issues"
+  },
+  "homepage": "https://github.com/viktorka1347/ajs-9#readme"
+}
