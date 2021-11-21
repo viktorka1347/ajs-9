@@ -12,8 +12,7 @@
         "LabeledStatement",
         "WithStatement"
       ],
-      "linebreak-style": ["error", "windows"
-      ],
+    
       "linebreak-style": [
         true,
         "CRLF"
