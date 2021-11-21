@@ -6,11 +6,17 @@
        "jest": true
     },
     "rules": {
-      "linebreak-style": 0,
+      
       "no-restricted-syntax": [
         "error",
         "LabeledStatement",
         "WithStatement"
+      ],
+      "linebreak-style": ["error", "windows"
+      ],
+      "linebreak-style": [
+        true,
+        "CRLF"
       ],
       "no-plusplus": "off"
     }
